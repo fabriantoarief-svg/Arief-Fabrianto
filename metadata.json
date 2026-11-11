@@ -1,0 +1,6 @@
+{
+  "name": "YPI Arief Fabrianto",
+  "description": "Portal Resmi Yayasan Pendidikan Islam Arief Fabrianto - Pusat Pendidikan, Dakwah, Sosial, Kesehatan & Kemanusiaan, dan Ekonomi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
